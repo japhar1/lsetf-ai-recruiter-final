@@ -82,7 +82,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configuration
-BACKEND_URL = "http://lsetf-hackathon-backend.eastus.azurecontainer.io:8000"
+BACKEND_URL = "https://lsetf-ai-recruiter-final.onrender.com"
 
 # Initialize session state
 if 'processing_results' not in st.session_state:
