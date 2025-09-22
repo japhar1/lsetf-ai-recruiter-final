@@ -10,7 +10,7 @@ AI-powered candidate selection system for LSETF/PLP programs.
 
 ## Live Demo
 - Frontend: https://lsetf-plp-ai-recruiter-tool.streamlit.app
-- Backend: https://your-app-name.onrender.com
+- Backend: https://lsetf-ai-recruiter-final.onrender.com
 
 ## Deployment
 Backend deployed on Render.com, Frontend on Streamlit Cloud.
